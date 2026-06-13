@@ -1,0 +1,122 @@
+[
+    {
+        "customer_id": 1,
+        "name": "Dawn Brewer",
+        "age": 56,
+        "email": "sbrooks@gmail.com"
+    },
+    {
+        "customer_id": 2,
+        "name": "Tara Kennedy",
+        "age": 37,
+        "email": "stephanie99@gmail.com"
+    },
+    {
+        "customer_id": 3,
+        "name": "Kathryn Chase",
+        "age": 43,
+        "email": "kimberlyespinoza@gmail.com"
+    },
+    {
+        "customer_id": 4,
+        "name": "Susan Vance",
+        "age": 33,
+        "email": "jillbrady@gmail.com"
+    },
+    {
+        "customer_id": 5,
+        "name": "Roger Wood",
+        "age": 54,
+        "email": "aaronharris@gmail.com"
+    },
+    {
+        "customer_id": 6,
+        "name": "Charles Farmer",
+        "age": 31,
+        "email": "jessica08@gmail.com"
+    },
+    {
+        "customer_id": 7,
+        "name": "Jamie Stone",
+        "age": 36,
+        "email": "sancheztony@gmail.com"
+    },
+    {
+        "customer_id": 8,
+        "name": "Michele Frank",
+        "age": 57,
+        "email": "david81@gmail.com"
+    },
+    {
+        "customer_id": 9,
+        "name": "Wendy Keller",
+        "age": 36,
+        "email": "david53@gmail.com"
+    },
+    {
+        "customer_id": 10,
+        "name": "Charles Henry",
+        "age": 47,
+        "email": "kirksara@gmail.com"
+    },
+    {
+        "customer_id": 11,
+        "name": "Lisa Garcia",
+        "age": 36,
+        "email": "finleyjeanette@gmail.com"
+    },
+    {
+        "customer_id": 12,
+        "name": "Cynthia Lopez",
+        "age": 21,
+        "email": "kevinrodriguez@gmail.com"
+    },
+    {
+        "customer_id": 13,
+        "name": "Stephanie Carter",
+        "age": 23,
+        "email": "thompsonronald@gmail.com"
+    },
+    {
+        "customer_id": 14,
+        "name": "Adam Hammond",
+        "age": 48,
+        "email": "jill74@gmail.com"
+    },
+    {
+        "customer_id": 15,
+        "name": "Carolyn Gonzales",
+        "age": 54,
+        "email": "paul73@gmail.com"
+    },
+    {
+        "customer_id": 16,
+        "name": "William Goodwin",
+        "age": 39,
+        "email": "markkim@gmail.com"
+    },
+    {
+        "customer_id": 17,
+        "name": "Andrea Ellis",
+        "age": 56,
+        "email": "brendajames@gmail.com"
+    },
+    {
+        "customer_id": 18,
+        "name": "Shawn Baker",
+        "age": 51,
+        "email": "tara79@gmail.com"
+    },
+    {
+        "customer_id": 19,
+        "name": "Laura Ortiz",
+        "age": 48,
+        "email": "myersbrian@gmail.com"
+    },
+    {
+        "customer_id": 20,
+        "name": "Debbie Farmer",
+        "age": 25,
+        "email": "gabrieldelgado@gmail.com"
+    }
+]

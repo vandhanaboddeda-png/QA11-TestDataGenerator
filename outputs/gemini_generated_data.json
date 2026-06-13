@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "customer_id": 1,
+    "name": "Priya Sharma",
+    "age": 32,
+    "email": "priya.sharma@gmail.com"
+  },
+  {
+    "customer_id": 2,
+    "name": "Rahul Gupta",
+    "age": 45,
+    "email": "rahul.gupta@gmail.com"
+  },
+  {
+    "customer_id": 3,
+    "name": "Anjali Singh",
+    "age": 28,
+    "email": "anjali.singh@gmail.com"
+  },
+  {
+    "customer_id": 4,
+    "name": "Amit Kumar",
+    "age": 51,
+    "email": "amit.kumar@gmail.com"
+  },
+  {
+    "customer_id": 5,
+    "name": "Deepika Patel",
+    "age": 39,
+    "email": "deepika.patel@gmail.com"
+  },
+  {
+    "customer_id": 6,
+    "name": "Sanjay Rao",
+    "age": 24,
+    "email": "sanjay.rao@gmail.com"
+  },
+  {
+    "customer_id": 7,
+    "name": "Kavita Devi",
+    "age": 58,
+    "email": "kavita.devi@gmail.com"
+  },
+  {
+    "customer_id": 8,
+    "name": "Vikas Reddy",
+    "age": 30,
+    "email": "vikas.reddy@gmail.com"
+  },
+  {
+    "customer_id": 9,
+    "name": "Meena Kumari",
+    "age": 41,
+    "email": "meena.kumari@gmail.com"
+  },
+  {
+    "customer_id": 10,
+    "name": "Rajesh Nair",
+    "age": 36,
+    "email": "rajesh.nair@gmail.com"
+  }
+]
+```

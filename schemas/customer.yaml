@@ -1,0 +1,19 @@
+table: customers
+
+rows: 20
+
+columns:
+  customer_id:
+    type: integer
+
+  name:
+    type: string
+
+  age:
+    type: integer
+    min: 18
+    max: 60
+
+  email:
+    type: email
+    domain: gmail.com
